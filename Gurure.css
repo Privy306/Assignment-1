@@ -1,0 +1,54 @@
+.p0{
+    border-style: solid;
+    border-radius: initial;
+    border-width: thin;
+    color: white;
+    text-align: left;
+    background-color: #E5509C;
+    font-size: larger;
+    border: none;
+    height: 50px;
+    padding-top: 20px;
+    height: 60px;
+}
+.P1{
+    font-style: unset;
+    color:black;
+    text-align: center;
+    font-size: larger;
+
+}
+.P2 {
+    color: black;
+    
+}
+.P3{
+    color: black;
+    
+}
+.P4{
+    color: black;
+   
+}
+.P5{
+    color: black;
+}
+    
+body{
+    background-color: #FF59A6;
+    display :block;
+    margin :150px;
+   
+
+}
+img{
+            height:auto;
+            width:99px;
+            border-radius: 100%;
+            border-style: solid;
+            border-color: white;
+            position: fixed;
+            top: 100px;
+            left: 900px;
+
+}
